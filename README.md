@@ -108,6 +108,8 @@ bash InstallNET.sh -d 10 -v 64 -a
 bash InstallNET.sh -c 6.9 -v 64 -a --mirror 'http://mirror.centos.org/centos'
  
  
+ http://ftp.cn.debian.org/debian/
+ 
 # 以下示例中,将X.X.X.X替换为自己的网络参数.
 # --ip-addr :IP Address/IP地址
 # --ip-gate :Gateway   /网关
